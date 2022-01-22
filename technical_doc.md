@@ -32,7 +32,7 @@ The outline of this document was generated
 
 The codebase has a 4-deep folder structure, with 47 in total.
 <!---Documatic-section-helloworld: setup-start--->
-The codebase is compatible with Python 3.6 and above, because of f-string 3.6 in /Users/elikemOZE/Codelab/Documatic/OS_projects/food-detection-yolov5/export.py.
+The codebase is compatible with Python 3.6 and above, because of f-string 3.6 in /food-detection-yolov5/export.py.
 Install requirements with `pip install -r requirements.txt`.
 Install from pypi with `pip install main`.
 
